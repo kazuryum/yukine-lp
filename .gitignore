@@ -1,0 +1,12 @@
+# 環境変数・APIキー（絶対にGitHubに上げない）
+.env
+.env.local
+.env.*.local
+
+# OS・エディタが自動生成するファイル
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ログ
+*.log
